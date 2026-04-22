@@ -1,7 +1,7 @@
 <!--
  ~ SPDX-FileCopyrightText: 2016-2024 Nextcloud GmbH and Nextcloud contributors
  ~ SPDX-License-Identifier: AGPL-3.0-or-later OR GPL-2.0-only
--->
+-->,..
 # [Nextcloud](https://nextcloud.com) Android app :iphone:
 
 [![REUSE status](https://api.reuse.software/badge/github.com/nextcloud/android)](https://api.reuse.software/info/github.com/nextcloud/android) [![Build Status](https://drone.nextcloud.com/api/badges/nextcloud/android/status.svg)](https://drone.nextcloud.com/nextcloud/android) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/fb4cf26336774ee3a5c9adfe829c41aa)](https://app.codacy.com/gh/nextcloud/android/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade) [![Releases](https://img.shields.io/github/release/nextcloud/android.svg)](https://github.com/nextcloud/android/releases/latest)
